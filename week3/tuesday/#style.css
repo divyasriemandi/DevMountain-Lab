@@ -1,0 +1,42 @@
+p{
+    color: red;
+}
+.bluetext{
+    color : blue
+}
+
+#special {
+    color : purple
+}
+.box{
+    height: 100px;
+    width :100px;
+    background :orange;
+}
+#red{
+    background-color: red;
+    position: relative;
+    top:20px;
+    left: 20px
+}
+.parent{
+    postion: relative
+}
+#purple{
+    background-color: purple;
+    position:absolute;
+    top: 20px;
+    right: 20px;
+}
+.box2{
+    display: inline-block;
+}
+.board{
+    display: flex;
+    justify-content: space-between;
+}
+.checkbox{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+}
